@@ -3,6 +3,7 @@ Edit test!
 branch test
 from oauth2client.service_account import ServiceAccountCredentials
 
+http://docs.aws.amazon.com/ja_jp/sns/latest/dg/AccessPolicyLanguage_SpecialInfo.html
 
 import json
 import gspread                                                                                                                                                                                                                                
